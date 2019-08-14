@@ -10,21 +10,21 @@ background-image: url("./Paisaje.jpg");
 
 .cabezera
 {
-width: 100%;
+width: 1000px;
 height: 40px;
 background: blue;
 }
 
 .media
 {
-width: 100%;
+width: 1000px;
 height: 40px;
 background: white;
 }
 
 .imagen
 {
-width: 100%;
+width: 1000px;
 height: 200px;
 background: center;
 background-repeat: no-repeat;
